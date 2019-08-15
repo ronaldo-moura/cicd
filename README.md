@@ -1,1 +1,1 @@
-# Tools for Continous Integration and Continous Deployment
+# Tools for Continuous Integration and Continuous Deployment (CI/CD)
